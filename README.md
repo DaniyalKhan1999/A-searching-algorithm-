@@ -2,7 +2,7 @@
 Members includes:
 Daniyal Khan (17B-014-SE)
 Muneeb ullah Khan (17B-050-SE)
-Ibad ahmed (17B-061-SE)
+Ibad Ahmed (17B-061-SE)
 
 # A-searching-algorithm-
  A* is the most popular choice for pathfinding, because it’s fairly flexible and can be used in a wide range of contexts. A* is like other graph-searching algorithms in that it can potentially search a huge area of the map. It’s like Dijkstra’s algorithm in that it can be used to find a shortest path. It’s like Greedy Best-First-Search in that it can use a heuristic to guide itself. In the simple case, it is as fast as Best-First-Search
