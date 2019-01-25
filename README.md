@@ -1,4 +1,4 @@
-# This project of A star searching algorithm is made a group of students of UIT
+# This project of A star searching algorithm is made by the group of students of UIT
 Members includes:
 Daniyal Khan (17B-014-SE)
 Muneeb ullah Khan (17B-050-SE)
