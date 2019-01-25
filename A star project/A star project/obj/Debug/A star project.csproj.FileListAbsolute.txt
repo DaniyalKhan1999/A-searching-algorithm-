@@ -1,0 +1,2 @@
+c:\users\daniyal khan\documents\visual studio 2013\Projects\A star project\A star project\bin\Debug\A star project.exe.config
+c:\users\daniyal khan\documents\visual studio 2013\Projects\A star project\A star project\obj\Debug\A star project.csprojResolveAssemblyReference.cache
